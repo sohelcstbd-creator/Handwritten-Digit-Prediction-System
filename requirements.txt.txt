@@ -1,7 +1,0 @@
-torch
-numpy
-pandas
-matplotlib
-scikit-learn
-idx2numpy
-Pillow
